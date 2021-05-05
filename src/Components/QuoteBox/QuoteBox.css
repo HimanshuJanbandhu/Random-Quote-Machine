@@ -1,0 +1,32 @@
+
+.wrapper{
+    height: 100%;
+    background-color: #FFF8DC;
+    align-items: center;
+    position: relative;
+}
+
+#quote-box {
+    height: 60%;
+    width: 60%;
+    position: absolute;
+    top: 20%;
+    margin-right: 20%;
+    margin-left: 20%;
+    border-radius: 1.5ch;
+    padding:0;
+    border-style: solid;
+}
+
+#new-quote {
+    position: absolute;
+    width: 100px;
+    margin-left: 750px;
+    margin-top: 120px;
+}
+
+#tweet-quote {
+    position: absolute;
+    margin-left: 25px;
+    margin-top: 125px;
+}
